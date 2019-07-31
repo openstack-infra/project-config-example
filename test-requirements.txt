@@ -1,2 +1,0 @@
-hacking>=0.10,<0.11
-bashate>=0.2
